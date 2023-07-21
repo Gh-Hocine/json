@@ -1,19 +1,9 @@
 {
+    "apiUrl" : "https://admin.gomovies.ma/api/",
 
+	"pushUpdate" : "off",
 
-
-	"NetworkAds" : "applovin",
-
-
-
-	"newAppStatus" : "off",
-
-
-
-	"appPackage" : "com.tvshows.Rivotomovies",
-
-	"apiUrl" : "https://cinemart.uk/api/"
-
-
+	"newPackage" : "",
+	"NetworkAds" : "applovin"
 
 }
