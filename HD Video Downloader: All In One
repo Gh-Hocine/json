@@ -1,0 +1,9 @@
+{
+    "apiUrl" : "http://cinemo-admin.semdcaog.com/api/",
+
+	"pushUpdate" : "off",
+
+	"newPackage" : "",
+	"NetworkAds" : "applovin"
+
+}
