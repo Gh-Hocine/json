@@ -1,6 +1,6 @@
 {
     "NetworkAds": "applovin",
-    "isDummy": false,
+    "isDummy": true,
     "pushUpdate": "off",
     "newPackage": "com.example.app"
     
