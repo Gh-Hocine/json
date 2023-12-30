@@ -1,0 +1,35 @@
+{
+	"ADS": {
+	
+		"native_type": "applovin",
+		"inter_type": "applovin",
+		"banner_type": "applovin",
+        "reward_type": "applovin",
+ 
+   
+	
+ "API_URL": "https://cinemart.uk/api/",
+ 
+	
+
+	 
+		"banner_applovin": "10582789d7607ef8",
+		"native_applovin": "fbb255830b36ae95",
+		"interstitial_applovin": "21fb91bf43f35033",
+        "reward_applovin": "39f0a6d018ab8d83",
+        "open_applovin": "d264c25209fc6c31",
+
+
+		 
+		
+		"facebook_interstitial": "173468672252119_174051032193883",
+		"facebook_native": "173468672252119_174051175527202",
+		"facebook_banner": "173468672252119_173477828917870",
+		"facebook_reward": "2028286464230349_2033281763730819",
+		
+		"pushUpdate": "off",
+        "newPackage": ""
+
+		 
+	}  
+   }
